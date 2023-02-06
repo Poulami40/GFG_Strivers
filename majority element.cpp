@@ -26,7 +26,7 @@ class Solution{
     }
 };
 
-//O(n)
+//O(n log n)
 
 class Solution {
 public:
